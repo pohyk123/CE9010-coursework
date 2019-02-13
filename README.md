@@ -2,7 +2,7 @@
 Contains python notebooks for CE9010 course.
 
 # Weekly Tutorials
-Week 3: Linear Algebra in Python
+Week 3: Linear Algebra in Python <br/>
 Week 5: Linear supervised regression
 
 ## References
