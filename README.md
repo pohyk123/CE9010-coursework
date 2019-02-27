@@ -4,7 +4,8 @@ Contains python notebooks for CE9010 course.
 # Weekly Tutorials
 Week 3: Linear Algebra in Python <br/>
 Week 5: Linear supervised regression <br/>
-Week 6: Supervised Classification
+Week 6: Supervised Classification <br />
+Week 7: Supervised Classification - improving learning capacity
 
 ## Notes
 Python Notebooks were tested on Google Colab. Amend file paths accordingly.
